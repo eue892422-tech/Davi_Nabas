@@ -2,13 +2,13 @@ const artworks = [
   {
     title: "Arte 01",
     category: "Arte digital",
-    image: "images/arte-1.jpg",
+    image: "images/arte-1.png",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
     title: "Arte 02",
     category: "Ilustração",
-    image: "images/arte-2.jpg",
+    image: "images/arte-2.png",
     alt: "Ilustração artística de Davi Nabas em destaque"
   }
 ];
