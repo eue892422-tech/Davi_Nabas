@@ -180,7 +180,7 @@ const artworks = [
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
-    title: "Santíssima trindade",
+    title: "Santissima trindade",
     category: "Ilustração tradicional",
     image: "images/desenho23.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
