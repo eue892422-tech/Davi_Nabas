@@ -12,187 +12,187 @@ const artworks = [
     alt: "Ilustração artística de Davi Nabas em destaque"
   }, 
   {
-    title: "????",
+    title: "Pomni",
     category: "Ilustração digital",
     image: "images/digital1.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
-    title: "????",
+    title: "Hatsune miku e Rem",
     category: "Ilustração digital",
     image: "images/digital2.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
-    title: "????",
+    title: "Hatsune miku",
     category: "Ilustração digital",
     image: "images/digital3.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
-    title: "????",
+    title: "Rem",
     category: "Ilustração digital",
     image: "images/digital4.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
-    title: "????",
+    title: "Familia madrigal",
     category: "Ilustração digital",
     image: "images/digital5.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
-    title: "????",
+    title: "Toji fushiguro",
     category: "Ilustração tradicional",
     image: "images/desenho.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
-    title: "????",
+    title: "Kanna kamui",
     category: "Ilustração tradicional",
     image: "images/desenho1.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
-    title: "????",
+    title: "Beatrice",
     category: "Ilustração tradicional",
     image: "images/desenho2.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
-    title: "????",
+    title: "Santa rita de cássia",
     category: "Ilustração tradicional",
     image: "images/desenho3.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
-    title: "????",
+    title: "Santa joana d'arc",
     category: "Ilustração tradicional",
     image: "images/desenho4.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
-    title: "????",
+    title: "Frieren",
     category: "Ilustração tradicional",
     image: "images/desenho5.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
-    title: "????",
+    title: "Comemoração dia de pentecostes",
     category: "Ilustração tradicional",
     image: "images/desenho6.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
-    title: "????",
+    title: "Kaoruko waguri",
     category: "Ilustração tradicional",
     image: "images/desenho7.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
-    title: "????",
+    title: "Hu tao",
     category: "Ilustração tradicional",
     image: "images/desenho8.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
-    title: "????",
+    title: "Griffith",
     category: "Ilustração tradicional",
     image: "images/desenho9.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
-    title: "????",
+    title: "Rei ayanami",
     category: "Ilustração tradicional",
     image: "images/desenho10.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
-    title: "????",
+    title: "Marin kitagawa",
     category: "Ilustração tradicional",
     image: "images/desenho11.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
-    title: "????",
+    title: "Frieren",
     category: "Ilustração tradicional",
     image: "images/desenho12.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
-    title: "????",
+    title: "Nobara kugisaki",
     category: "Ilustração tradicional",
     image: "images/desenho13.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
-    title: "????",
+    title: "Frieren",
     category: "Ilustração tradicional",
     image: "images/desenho14.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
-    title: "????",
+    title: "Obanai iguro e Mitsuri kanroji",
     category: "Ilustração tradicional",
     image: "images/desenho15.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
-    title: "????",
+    title: "Cyborg",
     category: "Ilustração tradicional",
     image: "images/desenho16.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
-    title: "????",
+    title: "Marcille donato",
     category: "Ilustração tradicional",
     image: "images/desenho17.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
-    title: "????",
+    title: "Stark",
     category: "Ilustração tradicional",
     image: "images/desenho18.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
-    title: "????",
+    title: "Maomao",
     category: "Ilustração tradicional",
     image: "images/desenho19.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
-    title: "????",
+    title: "Matikanetannhauser",
     category: "Ilustração tradicional",
     image: "images/desenho20.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
-    title: "????",
+    title: "Makima",
     category: "Ilustração tradicional",
     image: "images/desenho21.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
-    title: "????",
+    title: "Mandy",
     category: "Ilustração tradicional",
     image: "images/desenho22.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
-    title: "????",
+    title: "Santíssima trindade",
     category: "Ilustração tradicional",
     image: "images/desenho23.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
-    title: "????",
+    title: "Fern",
     category: "Ilustração tradicional",
     image: "images/desenho24.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
-    title: "????",
+    title: "Comemoração do dia coração de Jesus",
     category: "Ilustração tradicional",
     image: "images/desenho25.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
