@@ -1,6 +1,6 @@
 const artworks = [
   {
-    title: "Frieren",
+    title: "Frieren, Especial seleção brasileira",
     category: "Ilustração tradicional",
     image: "images/arte-1.png",
     alt: "Obra artística de Davi Nabas com visual moderno"
@@ -30,13 +30,13 @@ const artworks = [
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
-    title: "Rem",
+    title: "Rem (Re:zero)",
     category: "Ilustração digital",
     image: "images/digital4.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
-    title: "Familia madrigal",
+    title: "Ilustracão infantil",
     category: "Ilustração digital",
     image: "images/digital5.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
@@ -48,7 +48,7 @@ const artworks = [
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
-    title: "Kanna kamui",
+    title: "Bocchi (de bocchi the rock)",
     category: "Ilustração tradicional",
     image: "images/desenho1.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
@@ -150,19 +150,19 @@ const artworks = [
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
-    title: "Stark",
+    title: "Stark (frieren)",
     category: "Ilustração tradicional",
     image: "images/desenho18.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
-    title: "Maomao",
+    title: "Maomao (diário de uma apotecária)",
     category: "Ilustração tradicional",
     image: "images/desenho19.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
-    title: "Matikanetannhauser",
+    title: "Mambo",
     category: "Ilustração tradicional",
     image: "images/desenho20.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
@@ -186,7 +186,7 @@ const artworks = [
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
-    title: "Fern",
+    title: "Fern (frieren)",
     category: "Ilustração tradicional",
     image: "images/desenho24.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
