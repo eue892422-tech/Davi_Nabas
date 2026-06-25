@@ -10,7 +10,193 @@ const artworks = [
     category: "Ilustração tradicional",
     image: "images/arte-2.png",
     alt: "Ilustração artística de Davi Nabas em destaque"
-  }
+  }, 
+  {
+    title: "Frieren",
+    category: "Ilustração tradicional",
+    image: "images/arte-1.png",
+    alt: "Obra artística de Davi Nabas com visual moderno"
+  },
+  {
+    title: "Frieren",
+    category: "Ilustração tradicional",
+    image: "images/arte-1.png",
+    alt: "Obra artística de Davi Nabas com visual moderno"
+  },
+  {
+    title: "Frieren",
+    category: "Ilustração tradicional",
+    image: "images/arte-1.png",
+    alt: "Obra artística de Davi Nabas com visual moderno"
+  },
+  {
+    title: "Frieren",
+    category: "Ilustração tradicional",
+    image: "images/arte-1.png",
+    alt: "Obra artística de Davi Nabas com visual moderno"
+  },
+  {
+    title: "Frieren",
+    category: "Ilustração tradicional",
+    image: "images/arte-1.png",
+    alt: "Obra artística de Davi Nabas com visual moderno"
+  },
+  {
+    title: "Frieren",
+    category: "Ilustração tradicional",
+    image: "images/arte-1.png",
+    alt: "Obra artística de Davi Nabas com visual moderno"
+  },
+  {
+    title: "Frieren",
+    category: "Ilustração tradicional",
+    image: "images/arte-1.png",
+    alt: "Obra artística de Davi Nabas com visual moderno"
+  },
+  {
+    title: "Frieren",
+    category: "Ilustração tradicional",
+    image: "images/arte-1.png",
+    alt: "Obra artística de Davi Nabas com visual moderno"
+  },
+  {
+    title: "Frieren",
+    category: "Ilustração tradicional",
+    image: "images/arte-1.png",
+    alt: "Obra artística de Davi Nabas com visual moderno"
+  },
+  {
+    title: "Frieren",
+    category: "Ilustração tradicional",
+    image: "images/arte-1.png",
+    alt: "Obra artística de Davi Nabas com visual moderno"
+  },
+  {
+    title: "Frieren",
+    category: "Ilustração tradicional",
+    image: "images/arte-1.png",
+    alt: "Obra artística de Davi Nabas com visual moderno"
+  },
+  {
+    title: "Frieren",
+    category: "Ilustração tradicional",
+    image: "images/arte-1.png",
+    alt: "Obra artística de Davi Nabas com visual moderno"
+  },
+  {
+    title: "Frieren",
+    category: "Ilustração tradicional",
+    image: "images/arte-1.png",
+    alt: "Obra artística de Davi Nabas com visual moderno"
+  },
+  {
+    title: "Frieren",
+    category: "Ilustração tradicional",
+    image: "images/arte-1.png",
+    alt: "Obra artística de Davi Nabas com visual moderno"
+  },
+  {
+    title: "Frieren",
+    category: "Ilustração tradicional",
+    image: "images/arte-1.png",
+    alt: "Obra artística de Davi Nabas com visual moderno"
+  },
+  {
+    title: "Frieren",
+    category: "Ilustração tradicional",
+    image: "images/arte-1.png",
+    alt: "Obra artística de Davi Nabas com visual moderno"
+  },
+  {
+    title: "Frieren",
+    category: "Ilustração tradicional",
+    image: "images/arte-1.png",
+    alt: "Obra artística de Davi Nabas com visual moderno"
+  },
+  {
+    title: "Frieren",
+    category: "Ilustração tradicional",
+    image: "images/arte-1.png",
+    alt: "Obra artística de Davi Nabas com visual moderno"
+  },
+  {
+    title: "Frieren",
+    category: "Ilustração tradicional",
+    image: "images/arte-1.png",
+    alt: "Obra artística de Davi Nabas com visual moderno"
+  },
+  {
+    title: "Frieren",
+    category: "Ilustração tradicional",
+    image: "images/arte-1.png",
+    alt: "Obra artística de Davi Nabas com visual moderno"
+  },
+  {
+    title: "Frieren",
+    category: "Ilustração tradicional",
+    image: "images/arte-1.png",
+    alt: "Obra artística de Davi Nabas com visual moderno"
+  },
+  {
+    title: "Frieren",
+    category: "Ilustração tradicional",
+    image: "images/arte-1.png",
+    alt: "Obra artística de Davi Nabas com visual moderno"
+  },
+  {
+    title: "Frieren",
+    category: "Ilustração tradicional",
+    image: "images/arte-1.png",
+    alt: "Obra artística de Davi Nabas com visual moderno"
+  },
+  {
+    title: "Frieren",
+    category: "Ilustração tradicional",
+    image: "images/arte-1.png",
+    alt: "Obra artística de Davi Nabas com visual moderno"
+  },
+  {
+    title: "Frieren",
+    category: "Ilustração tradicional",
+    image: "images/arte-1.png",
+    alt: "Obra artística de Davi Nabas com visual moderno"
+  },
+  {
+    title: "Frieren",
+    category: "Ilustração tradicional",
+    image: "images/arte-1.png",
+    alt: "Obra artística de Davi Nabas com visual moderno"
+  },
+  {
+    title: "Frieren",
+    category: "Ilustração tradicional",
+    image: "images/arte-1.png",
+    alt: "Obra artística de Davi Nabas com visual moderno"
+  },
+  {
+    title: "Frieren",
+    category: "Ilustração tradicional",
+    image: "images/arte-1.png",
+    alt: "Obra artística de Davi Nabas com visual moderno"
+  },
+  {
+    title: "Frieren",
+    category: "Ilustração tradicional",
+    image: "images/arte-1.png",
+    alt: "Obra artística de Davi Nabas com visual moderno"
+  },
+  {
+    title: "Frieren",
+    category: "Ilustração tradicional",
+    image: "images/arte-1.png",
+    alt: "Obra artística de Davi Nabas com visual moderno"
+  },
+  {
+    title: "Frieren",
+    category: "Ilustração tradicional",
+    image: "images/arte-1.png",
+    alt: "Obra artística de Davi Nabas com visual moderno"
+  },
 ];
 
 const galleryGrid = document.getElementById("galleryGrid");
