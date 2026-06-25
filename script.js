@@ -196,7 +196,7 @@ const artworks = [
     category: "Ilustração tradicional",
     image: "images/desenho25.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
-  },
+  }
 ];
 
 const galleryGrid = document.getElementById("galleryGrid");
