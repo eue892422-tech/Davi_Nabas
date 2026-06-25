@@ -19,182 +19,182 @@ const artworks = [
   },
   {
     title: "????",
-    category: "Ilustração tradicional",
-    image: "images/arte-1.png",
+    category: "Ilustração digital",
+    image: "images/digital2.jpg",
+    alt: "Obra artística de Davi Nabas com visual moderno"
+  },
+  {
+    title: "????",
+    category: "Ilustração digital",
+    image: "images/digital3.jpg",
+    alt: "Obra artística de Davi Nabas com visual moderno"
+  },
+  {
+    title: "????",
+    category: "Ilustração digital",
+    image: "images/digital4.jpg",
+    alt: "Obra artística de Davi Nabas com visual moderno"
+  },
+  {
+    title: "????",
+    category: "Ilustração digital",
+    image: "images/digital5.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
     title: "????",
     category: "Ilustração tradicional",
-    image: "images/arte-1.png",
+    image: "images/desenho.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
     title: "????",
     category: "Ilustração tradicional",
-    image: "images/arte-1.png",
+    image: "images/desenho1.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
     title: "????",
     category: "Ilustração tradicional",
-    image: "images/arte-1.png",
+    image: "images/desenho2.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
     title: "????",
     category: "Ilustração tradicional",
-    image: "images/arte-1.png",
+    image: "images/desenho3.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
     title: "????",
     category: "Ilustração tradicional",
-    image: "images/arte-1.png",
+    image: "images/desenho4.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
     title: "????",
     category: "Ilustração tradicional",
-    image: "images/arte-1.png",
+    image: "images/desenho5.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
     title: "????",
     category: "Ilustração tradicional",
-    image: "images/arte-1.png",
+    image: "images/desenho6.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
     title: "????",
     category: "Ilustração tradicional",
-    image: "images/arte-1.png",
+    image: "images/desenho7.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
     title: "????",
     category: "Ilustração tradicional",
-    image: "images/arte-1.png",
+    image: "images/desenho8.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
     title: "????",
     category: "Ilustração tradicional",
-    image: "images/arte-1.png",
+    image: "images/desenho9.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
     title: "????",
     category: "Ilustração tradicional",
-    image: "images/arte-1.png",
+    image: "images/desenho10.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
     title: "????",
     category: "Ilustração tradicional",
-    image: "images/arte-1.png",
+    image: "images/desenho11.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
     title: "????",
     category: "Ilustração tradicional",
-    image: "images/arte-1.png",
+    image: "images/desenho12.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
     title: "????",
     category: "Ilustração tradicional",
-    image: "images/arte-1.png",
+    image: "images/desenho13.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
     title: "????",
     category: "Ilustração tradicional",
-    image: "images/arte-1.png",
+    image: "images/desenho14.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
     title: "????",
     category: "Ilustração tradicional",
-    image: "images/arte-1.png",
+    image: "images/desenho15.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
     title: "????",
     category: "Ilustração tradicional",
-    image: "images/arte-1.png",
+    image: "images/desenho16.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
     title: "????",
     category: "Ilustração tradicional",
-    image: "images/arte-1.png",
+    image: "images/desenho17.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
     title: "????",
     category: "Ilustração tradicional",
-    image: "images/arte-1.png",
+    image: "images/desenho18.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
     title: "????",
     category: "Ilustração tradicional",
-    image: "images/arte-1.png",
+    image: "images/desenho19.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
     title: "????",
     category: "Ilustração tradicional",
-    image: "images/arte-1.png",
+    image: "images/desenho20.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
     title: "????",
     category: "Ilustração tradicional",
-    image: "images/arte-1.png",
+    image: "images/desenho21.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
     title: "????",
     category: "Ilustração tradicional",
-    image: "images/arte-1.png",
+    image: "images/desenho22.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
     title: "????",
     category: "Ilustração tradicional",
-    image: "images/arte-1.png",
+    image: "images/desenho23.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
     title: "????",
     category: "Ilustração tradicional",
-    image: "images/arte-1.png",
+    image: "images/desenho24.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
   {
     title: "????",
     category: "Ilustração tradicional",
-    image: "images/arte-1.png",
-    alt: "Obra artística de Davi Nabas com visual moderno"
-  },
-  {
-    title: "????",
-    category: "Ilustração tradicional",
-    image: "images/arte-1.png",
-    alt: "Obra artística de Davi Nabas com visual moderno"
-  },
-  {
-    title: "????",
-    category: "Ilustração tradicional",
-    image: "images/arte-1.png",
-    alt: "Obra artística de Davi Nabas com visual moderno"
-  },
-  {
-    title: "????",
-    category: "Ilustração tradicional",
-    image: "images/arte-1.png",
+    image: "images/desenho25.jpg",
     alt: "Obra artística de Davi Nabas com visual moderno"
   },
 ];
